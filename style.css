@@ -29,7 +29,7 @@ body {
 
 }
 
-.main-page-element {
+.main-content {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -41,7 +41,7 @@ body {
   flex-grow: 1;
 }
 
-.task-row-wrapper {
+.task-wrapper {
   display: flex;
 }
 
